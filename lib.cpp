@@ -1,4 +1,4 @@
-#include "Libreria.h"
+#include "lib.h"
 
 bool funzione (char &c){
     if ((c>=65) and (c<=90)){
