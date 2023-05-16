@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Libreria.h"
+#include "lib.h"
 using namespace std;
 
 int main(){
